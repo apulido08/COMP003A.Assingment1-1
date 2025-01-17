@@ -17,7 +17,11 @@ namespace COMP003A.Assingment1
             Console.WriteLine("Hello " + username + "!. My name is Alvaro!");
 
             Console.WriteLine("Here are 10 things about me:");
-            Console.WriteLine(
+            Console.WriteLine("1. I build computers for fun.");
+            Console.WriteLine("2. I work in the Ag Industry.");
+            Console.WriteLine("3. I am a metal head for life!!");
+            Console.WriteLine("4. I am a father of 3.");
+
         }
     }
 }
